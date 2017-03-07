@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "divizorii unui numar", "divizorii unui numar\divizorii unui numar.vcxproj", "{C427C5F2-31C3-4F32-B22E-BA65D37B4DC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C427C5F2-31C3-4F32-B22E-BA65D37B4DC1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C427C5F2-31C3-4F32-B22E-BA65D37B4DC1}.Debug|Win32.Build.0 = Debug|Win32
+		{C427C5F2-31C3-4F32-B22E-BA65D37B4DC1}.Release|Win32.ActiveCfg = Release|Win32
+		{C427C5F2-31C3-4F32-B22E-BA65D37B4DC1}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
